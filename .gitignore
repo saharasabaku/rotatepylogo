@@ -1,0 +1,8 @@
+#.gitignore
+__pycache__
+a.txt
+database.db
+test.js
+test.py
+test3.py
+pythonlogo.jpg
